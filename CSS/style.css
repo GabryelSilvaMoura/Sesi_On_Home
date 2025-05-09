@@ -309,7 +309,7 @@ main > #not > article{
 main > #not > article > #fot{
     height: 450px;
     width: 45%;
-    background-image: url('/Imagens/sesi\ diadema.jpg');
+    background-image: url('Imagens/sesi\ diadema.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -467,7 +467,7 @@ main > #ban1{
     height: 30rem;
     width: 100%;
     background-color: rgb(161, 161, 161);
-    background-image: url("/Imagens/templo.jpg");
+    background-image: url("Imagens/templo.jpg");
     background-position: bottom;
     background-attachment: fixed;
     background-repeat: no-repeat;
